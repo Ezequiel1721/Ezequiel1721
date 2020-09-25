@@ -5,9 +5,9 @@
 
 
 
-### *Este soy yo:*
+### ***Este soy yo:***
 ---
-- 🔭 Actualmente estudio en el Instituo Tecnológico de Tijuana
+- 🔭 **Actualmente estudio en el Instituo Tecnológico de Tijuana**
 - 🌱 Estoy aprendiendo c++ y desarrollo web
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

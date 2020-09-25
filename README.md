@@ -3,13 +3,13 @@
 # ¡BIENVENID@ A MI PERFIL!
 ---
 ### ***Este soy yo:***
-- 🔭 **Actualmente estudio en el Instituto Tecnológico de Tijuana**
-- 🌱 **Estoy aprendiendo c++ y desarrollo web**
-- 👯 **Me gusta trabajar en equipo**
+- :mortar_board: **Actualmente estudio en el Instituto Tecnológico de Tijuana**
+- :orange_book: **Estoy aprendiendo c++ y desarrollo web**
+- :smiley: **Me gusta trabajar en equipo**
 - :heart_eyes: **Mi lenguaje de programación favorito es C#**
-- 💬 **Tengo conocimiento en C#, Python, Java, SQL y PHP**
-- 📫 **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
-- ⚡ **Mis pasatiempos son el fútbol y los videojuegos**
+- :muscle: **Tengo conocimiento en C#, Python, Java, SQL y PHP**
+- :email: **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
+- :clock10: **Mis pasatiempos son el fútbol :soccer: y los videojuegos :video_game:**
 ---
 > *Hablar es barato. Enséñame el código. - Linus Torvalds*
 ---

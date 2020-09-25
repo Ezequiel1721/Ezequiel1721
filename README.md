@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hola programadores, soy Ezequiel 👋
 
-<!--
-**Ezequiel1721/Ezequiel1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+|  HORA |                     LUNES                    |                    MARTES                    |                   MIÉRCOLES                  |                    JUEVES                    |                    VIERNES                   |
+|:-----:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
+| 14:00 |             Lenguajes de Interfaz            |             Lenguajes de Interfaz            |             Lenguajes de Interfaz            |             Lenguajes de Interfaz            |       Gestión  de Proyectos de Software      |
+| 15:00 |       Gestión  de Proyectos de Software      |       Gestión  de Proyectos de Software      |       Gestión  de Proyectos de Software      |       Gestión  de Proyectos de Software      |       Gestión  de Proyectos de Software      |
+| 16:00 | Conmutación y Enrutamiento de Redes de Datos | Conmutación y Enrutamiento de Redes de Datos | Conmutación y Enrutamiento de Redes de Datos | Conmutación y Enrutamiento de Redes de Datos | Conmutación y Enrutamiento de Redes de Datos |
+| 17:00 |               Programación Web               |               Programación Web               |               Programación Web               |               Programación Web               |               Programación Web               |
+| 18:00 |         Análisis Avanzado de Software        |         Análisis Avanzado de Software        |         Análisis Avanzado de Software        |         Análisis Avanzado de Software        |         Análisis Avanzado de Software        |
+| 19:00 |          Taller de Investigación II          |          Taller de Investigación II          |          Taller de Investigación II          |          Taller de Investigación II          |                                              |

@@ -1,6 +1,6 @@
 ![](https://images.cooltext.com/5466329.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-# ¡BIENVENIDO A MI PERFIL!
+# ¡BIENVENID@ A MI PERFIL!
 ---
 ### ***Este soy yo:***
 - 🔭 **Actualmente estudio en el Instituo Tecnológico de Tijuana**
@@ -9,7 +9,7 @@
 - 🤔 **Mi lenguaje de programación favorito es C#**
 - 💬 **Tengo conocimiento en C#, Python, Java, SQL y PHP**
 - 📫 **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
-- ⚡ **Pasatiempos:** Me gusta el fútbol y los videojuegos
+- ⚡ **Mis pasatiempos son el fútbol y los videojuegos
 ---
 > Hablar es barato. Enséñame el código. - Linus Torvalds
 ---

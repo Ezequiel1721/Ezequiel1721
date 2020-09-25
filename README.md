@@ -4,20 +4,18 @@
 # BIENVENIDO A MI PERFIL
 
 
-
-### ***Este soy yo:***
 ---
+### ***Este soy yo:***
 - 🔭 **Actualmente estudio en el Instituo Tecnológico de Tijuana**
-- 🌱 Estoy aprendiendo c++ y desarrollo web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 **Estoy aprendiendo c++ y desarrollo web**
+- 👯 **I’m looking to collaborate on**
+- 🤔 **I’m looking for help with**
+- 💬 **Tengo conocimiento en C#, Python, Java, SQL y PHP**
+- 📫 **Como contactarme: ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com**
+- ⚡ **Pasatiempos: Me gusta el fútbol y los videojuegos
 ---
 > Hablar es barato. Enséñame el código. -Linus Torvalds
-
+---
 ![](https://images.cooltext.com/5466321.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 

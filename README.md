@@ -1,4 +1,4 @@
-# **HOLA PROGRAMADORES, SOY EZEQUIEL** 👋
+# HOLA, SOY EZEQUIEL 👋
 
 
 

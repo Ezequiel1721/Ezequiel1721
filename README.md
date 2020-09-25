@@ -8,8 +8,8 @@
 - 👯 **Me gusta trabajar en equipo**
 - 🤔 **Mi lenguaje de programación favorito es C#**
 - 💬 **Tengo conocimiento en C#, Python, Java, SQL y PHP**
-- 📫 **Como contactarme: ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com**
-- ⚡ **Pasatiempos: Me gusta el fútbol y los videojuegos**
+- 📫 **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
+- ⚡ **Pasatiempos:** Me gusta el fútbol y los videojuegos
 ---
 > Hablar es barato. Enséñame el código. - Linus Torvalds
 ---

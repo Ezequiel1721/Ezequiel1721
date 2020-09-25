@@ -9,7 +9,7 @@
 - :heart_eyes: **Mi lenguaje de programación favorito es C#**
 - :muscle: **Tengo conocimiento en C#, Python, Java, SQL y PHP**
 - :email: **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
-- :clock10: **Mis pasatiempos son el fútbol :soccer: y los videojuegos :video_game:**
+- :clock10: **Mis pasatiempos son programar, el fútbol :soccer: y los videojuegos :video_game:**
 ---
 > *Hablar es barato. Enséñame el código. - Linus Torvalds*
 ---

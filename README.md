@@ -2,11 +2,11 @@
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 # BIENVENIDO A MI PERFIL
-
+===
 
 
 ## Este soy yo:
-
+---
 - 🔭 Actualmente estudio en el Instituo Tecnológico de Tijuana
 - 🌱 Estoy aprendiendo c++ y desarrollo web
 - 👯 I’m looking to collaborate on ...

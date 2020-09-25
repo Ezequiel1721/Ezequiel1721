@@ -6,7 +6,7 @@
 - 🔭 **Actualmente estudio en el Instituto Tecnológico de Tijuana**
 - 🌱 **Estoy aprendiendo c++ y desarrollo web**
 - 👯 **Me gusta trabajar en equipo**
-- 🤔 **Mi lenguaje de programación favorito es C#**
+- :heart_eyes: **Mi lenguaje de programación favorito es C#**
 - 💬 **Tengo conocimiento en C#, Python, Java, SQL y PHP**
 - 📫 **Como contactarme:** ezequiel.galvan@tectijuana.edu.mx, squielgr20@gmail.com
 - ⚡ **Mis pasatiempos son el fútbol y los videojuegos**

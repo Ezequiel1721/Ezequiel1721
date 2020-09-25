@@ -5,7 +5,7 @@
 =
 
 
-## Este soy yo:
+### Este soy yo:
 ---
 - 🔭 Actualmente estudio en el Instituo Tecnológico de Tijuana
 - 🌱 Estoy aprendiendo c++ y desarrollo web

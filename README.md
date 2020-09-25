@@ -3,7 +3,7 @@
 # ¡BIENVENID@ A MI PERFIL!
 ---
 ### ***Este soy yo:***
-- 🔭 **Actualmente estudio en el Instituo Tecnológico de Tijuana**
+- 🔭 **Actualmente estudio en el Instituto Tecnológico de Tijuana**
 - 🌱 **Estoy aprendiendo c++ y desarrollo web**
 - 👯 **Me gusta trabajar en equipo**
 - 🤔 **Mi lenguaje de programación favorito es C#**
